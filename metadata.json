@@ -1,0 +1,6 @@
+{
+  "name": "Calendrier App",
+  "description": "Application Android de calendrier et gestion d'événements",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
